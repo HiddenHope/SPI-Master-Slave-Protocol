@@ -4,8 +4,6 @@ A Verilog implementation of the Serial Peripheral Interface (SPI) protocol, feat
 
 The project focuses on serial communication, clock polarity and phase, finite state machines (FSMs), shift registers, bit counting, and simulation-based verification.
 
-> **Project status:** The recorded SPI Master tests and SPI Slave MOSI reception tests pass in all four SPI modes. Complete master–slave integration, slave-to-master data transmission, and physical FPGA validation have not yet been verified.
-
 ---
 
 ## Table of Contents
